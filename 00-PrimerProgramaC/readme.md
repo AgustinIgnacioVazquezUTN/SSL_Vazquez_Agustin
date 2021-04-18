@@ -1,3 +1,3 @@
 #Intro
 
-Este codigo mostrata por consola las palabras "Hello World"
+Este codigo mostrata por consola las palabras "Hola Mundo"
